@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cHelloPackage",
+        "repositoryURL": "https://github.com/kevinvandenbreemen/cHelloPackage",
+        "state": {
+          "branch": null,
+          "revision": "b5222239f6ba97f5c0f4754a6c31ed763f9d2db8",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
